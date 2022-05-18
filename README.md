@@ -67,3 +67,8 @@ $ loadtest -n 100 -k  http://localhost:8000/store/cache/
 [Wed May 18 2022 15:16:27 GMT+0530 (India Standard Time)] INFO   95%      46 ms
 [Wed May 18 2022 15:16:27 GMT+0530 (India Standard Time)] INFO   99%      49 ms
 [Wed May 18 2022 15:16:27 GMT+0530 (India Standard Time)] INFO  100%      49 ms (longest request)
+
+
+Reference: https://code.tutsplus.com/tutorials/how-to-cache-using-redis-in-django-applications--cms-30178
+
+above link contain old code so this repo contain refactored and updated version to learn more about redis..
